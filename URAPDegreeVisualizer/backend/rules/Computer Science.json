@@ -1,0 +1,18 @@
+[
+    "Requirement('Crime,Inequality,andPrivilegeElective(3credits)', 'AtLeastKCourses([$CRM_380, $CRM_383], 1)')",
+    "Requirement('CriminologicalTheory', 'AtLeastKCourses([$CRM_463, $SOC_463], 1)')",
+    "Requirement('CriminologyElectives', 'AtLeastKUnits([$CRM_325, $CRM_333, $CRM_345, $CRM_348, $CRM_363, $CRM_365, $CRM_372, $CRM_373, $CRM_377, $CRM_378, $CRM_380, $CRM_383, $CRM_392, $CRM_395, $CRM_399, $CRM_403, $CRM_404, $CRM_412, $CRM_462, $CRM_463, $CRM_464, $CRM_477, $CRM_485], 6.0)')",
+    "Requirement('DeviantBehavior', 'AtLeastKCourses([$CRM_373, $SOC_373], 1)')",
+    "Requirement('GlobalCriminology', 'AtLeastKCourses([$CRM_222], 1)')",
+    "Requirement('IntroductiontoSociologicalTheory', 'AtLeastKCourses([$SOC_300], 1)')",
+    "Requirement('IntrotoSociology', 'AtLeastKCourses([$SOC_150], 1)')",
+    "Requirement('MethodsofSocialResearchI', 'AtLeastKCourses([$SOC_301, $SOC_493, $SOC_293], 1)')",
+    "Requirement('MethodsofSocialResearchII', 'AtLeastKCourses([$SOC_302, $SOC_494, $SOC_294], 1)')",
+    "Requirement('MinGPA', 'GreaterThan($GPA, 2.0)')",
+    "Requirement('MinResidenceCredits', 'GreaterThan($ResidenceCredits, 19.0)')",
+    "Requirement('MinUnits', 'GreaterThan($Credits, 42.0)')",
+    "Requirement('SocialControlElectives(6credits)', 'AtLeastKCourses([$CRM_333, $CRM_363, $CRM_392, $CRM_464, $CRM_477, $CRM_485, $PHI_205], 2)')",
+    "Requirement('SociologyElective', 'AtLeastKUnits([$SOC_230, $SOC_235, $SOC_315, $SOC_322, $SOC_335, $SOC_340, $SOC_350, $SOC_351, $SOC_352, $SOC_355, $SOC_360, $SOC_366, $SOC_370, $SOC_371, $SOC_385, $SOC_401, $SOC_430, $SOC_451, $SOC_465, $SOC_470, $SOC_475, $SOC_480, $SOC_505], 3.0)')",
+    "Requirement('TheAmericanLegalSystem(3credits)', 'AtLeastKCourses([$CRM_202, $CRM_303, $CRM_375, $POL_202, $SOC_375], 1)')",
+    "Requirement('Overall', '$GlobalCriminology and $DeviantBehavior and $CriminologicalTheory and $IntrotoSociology and $MethodsofSocialResearchI and $MethodsofSocialResearchII and $IntroductiontoSociologicalTheory and $SociologyElective and $TheAmericanLegalSystem(3credits) and $SocialControlElectives(6credits) and $Crime,Inequality,andPrivilegeElective(3credits) and $CriminologyElectives')"
+]

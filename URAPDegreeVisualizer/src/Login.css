@@ -1,0 +1,18 @@
+.headerLogin{
+    margin-top: 80px;
+    text-align: center;
+}
+
+.headerT{
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    font-weight: 700;
+}
+
+.password {
+    margin-top:30px;
+}
+
+.submit {
+    margin-top: 10px;
+}

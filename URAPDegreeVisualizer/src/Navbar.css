@@ -1,0 +1,41 @@
+.bar {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Helvetica, sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    background-color: #0F2B4E;
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+
+.app-title {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.sublinks{
+    list-style: none;
+    font-size: 125%;
+}
+
+.sublinks li {
+    display: inline-block;
+    padding: 0px 20px;
+    text-decoration: none;
+}
+
+.sublinks a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.sublinks a:hover {
+    color:darkslategray;
+}

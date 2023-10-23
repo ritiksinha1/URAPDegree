@@ -1,0 +1,16 @@
+.step h2{
+    margin: 0;
+    font-family: "Helvetica";
+}
+
+.step i {
+    color: darkslategray;
+}
+
+.step {
+    margin-left: 70px;
+}
+
+body {
+    margin: 0;
+}

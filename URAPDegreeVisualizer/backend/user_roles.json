@@ -1,0 +1,4 @@
+{
+    "student": {"can_see_course_lists": false, "can_edit_reqs": false},
+    "teacher": {"can_see_course_lists": true, "can_edit_reqs": true}
+}

@@ -1,0 +1,28 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    margin-left: 70px;
+}
+
+.headerText {
+    text-align: left;
+    font-family: Helvetica, sans-serif;
+    font-weight: 700;
+}
+
+.major {
+    font-family: Helvetica, sans-serif;
+    margin-bottom: 5px;
+    font-weight: 600;
+    text-align: left;
+}
+
+.selectSection{
+    width: 15%;
+    margin-bottom: 40px;
+}
+
+.major {
+    text-align: left;
+}
+
